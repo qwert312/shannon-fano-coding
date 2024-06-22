@@ -1,0 +1,17 @@
+D:\Хранилище загрузок\VisualStudioSouce\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Хранилище загрузок\VisualStudioSouce\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Хранилище загрузок\VisualStudioSouce\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Программа кодирования методом Шеннона-Фано.csproj.AssemblyReference.cache
+D:\Хранилище загрузок\VisualStudioSouce\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ShannonFanoProgram.Form1.resources
+D:\Хранилище загрузок\VisualStudioSouce\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Хранилище загрузок\VisualStudioSouce\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Программа кодирования методом Шеннона-Фано.csproj.GenerateResource.cache
+D:\Хранилище загрузок\VisualStudioSouce\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Программа кодирования методом Шеннона-Фано.csproj.CoreCompileInputs.cache
+D:\Хранилище загрузок\VisualStudioSouce\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Shannon Fano.exe.config
+D:\Хранилище загрузок\VisualStudioSouce\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Shannon Fano.exe.manifest
+D:\Хранилище загрузок\VisualStudioSouce\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Shannon Fano.application
+D:\Хранилище загрузок\VisualStudioSouce\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Shannon Fano.exe
+D:\Хранилище загрузок\VisualStudioSouce\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Shannon Fano.pdb
+D:\Хранилище загрузок\VisualStudioSouce\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Shannon Fano.exe.manifest
+D:\Хранилище загрузок\VisualStudioSouce\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Shannon Fano.application
+D:\Хранилище загрузок\VisualStudioSouce\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Shannon Fano.exe
+D:\Хранилище загрузок\VisualStudioSouce\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Shannon Fano.pdb
+D:\Хранилище загрузок\VisualStudioSouce\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Программ.3438CB83.Up2Date

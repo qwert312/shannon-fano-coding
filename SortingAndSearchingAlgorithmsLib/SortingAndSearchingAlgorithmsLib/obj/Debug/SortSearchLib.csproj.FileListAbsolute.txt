@@ -1,0 +1,6 @@
+D:\Хранилище загрузок\VisualStudioSouce\repos\SortingAndSearchingAlgorithmsLib\SortingAndSearchingAlgorithmsLib\obj\Debug\SortSearchLib.csproj.AssemblyReference.cache
+D:\Хранилище загрузок\VisualStudioSouce\repos\SortingAndSearchingAlgorithmsLib\SortingAndSearchingAlgorithmsLib\obj\Debug\SortSearchLib.csproj.CoreCompileInputs.cache
+D:\Хранилище загрузок\VisualStudioSouce\repos\SortingAndSearchingAlgorithmsLib\SortingAndSearchingAlgorithmsLib\bin\Debug\SortSearchLib.dll
+D:\Хранилище загрузок\VisualStudioSouce\repos\SortingAndSearchingAlgorithmsLib\SortingAndSearchingAlgorithmsLib\bin\Debug\SortSearchLib.pdb
+D:\Хранилище загрузок\VisualStudioSouce\repos\SortingAndSearchingAlgorithmsLib\SortingAndSearchingAlgorithmsLib\obj\Debug\SortSearchLib.dll
+D:\Хранилище загрузок\VisualStudioSouce\repos\SortingAndSearchingAlgorithmsLib\SortingAndSearchingAlgorithmsLib\obj\Debug\SortSearchLib.pdb
