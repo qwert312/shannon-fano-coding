@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Программа кодирования методом Шеннона-Фано", "WindowsFormsApp1\Программа кодирования методом Шеннона-Фано.csproj", "{98CF95C6-AC9C-4521-A156-B409BD3438C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Программа кодирования методом Шеннона-Фано", "Shannon-Fano Coding\Программа кодирования методом Шеннона-Фано.csproj", "{98CF95C6-AC9C-4521-A156-B409BD3438C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
