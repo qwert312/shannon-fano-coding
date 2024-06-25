@@ -41,7 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="TestingAlgorithmMethods.cs" />
     <Compile Include="SortingAlgorithms.cs" />
     <Compile Include="SearchingAlgorithms.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

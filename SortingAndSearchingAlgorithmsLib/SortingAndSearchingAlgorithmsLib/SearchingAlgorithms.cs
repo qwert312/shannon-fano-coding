@@ -5,6 +5,16 @@ namespace SortSearchAlgs
 {
     public static class SearchingAlgorithms 
     {
+        private static bool IsSorted<T>(T[] array) where T : IComparable<T>
+        {
+            for (int i = 0; i < array.Length - 1; i++)
+            {
+                if (array[i].CompareTo(array[i + 1]) > 0)
+                    return false;
+            }
+            return true;
+        }
+
         public static List<int> LinearSearch<T>(T[] array, T value) where T : IComparable<T>
         {
             if (array.Length == 0)
@@ -38,7 +48,7 @@ namespace SortSearchAlgs
 
             List<int> indices = new List<int>();
 
-            if (!TestingAlgorithmMethods.IsSorted(array))
+            if (!IsSorted(array))
             {
                 Console.WriteLine("Массив не отсортирован");
                 indices.Add(-1);
@@ -103,7 +113,7 @@ namespace SortSearchAlgs
 
             List<int> indices = new List<int>();
 
-            if (!TestingAlgorithmMethods.IsSorted(array))
+            if (!IsSorted(array))
             {
                 Console.WriteLine("Массив не отсортирован");
                 indices.Add(-1);
@@ -148,7 +158,7 @@ namespace SortSearchAlgs
 
             List<int> indices = new List<int>();
 
-            if (!TestingAlgorithmMethods.IsSorted(array))
+            if (!IsSorted(array))
             {
                 Console.WriteLine("Массив не отсортирован");
                 indices.Add(-1);

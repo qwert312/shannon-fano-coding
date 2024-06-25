@@ -10,8 +10,8 @@
 * .NET Framework 4.7.2
 * Newtonsoft.Json 13.0.3
 ## Установка и запуск
-1. Скачать и распаковать архив Shannon-Fano coding из [релизов](https://github.com/qwert312/university-projcets/releases/tag/v1.0.0)
-2. Запустить .exe файл "Shannon Fano"  
+1. Скачать и распаковать архив Shannon-Fano coding из [релизов](https://github.com/qwert312/university-projcets/releases/latest).
+2. Запустить Shannon Fano.exe
   
 Для работы с исходным кодом достаточно скачать и распаковать архив Source из того же места, а затем открыть папку Shannon-Fano coding.
 ## Использование
